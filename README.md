@@ -1,2 +1,1 @@
-# ai16z-coin.github.io
-https://eliza-ai.xyz/
+# https://eliza-ai.xyz/
